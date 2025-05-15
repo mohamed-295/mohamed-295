@@ -25,7 +25,7 @@
   <a href="https://discord.gg/mohamed_295" margin-right="10px">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-295">
+  <a href="https://linkedin.com/in/mohamedadel29">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
@@ -38,8 +38,8 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=css,html,javascript,java,md,php,spring,mysql">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,java,md,php,spring,mysql,laravel,react" />
+  <a href="https://skillicons.dev/icons?i=css,html,javascript,java,md,dart,mysql">
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,java,md,dart,mysql" />
   </a>
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=git,github,C,arduino,CPP,npm,vscode,idea,Notion-Dark,maven,nginx,obsidian">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,arduino,jenkins,npm,vscode,idea,phpstorm,maven,nginx,obsidian" />
+  <a href="https://skillicons.dev/icons?i=git,github,c,arduino,cpp,npm,vscode,idea,Notion-Dark,maven,flutter,discord">
+    <img src="https://skillicons.dev/icons?i=git,github,c,arduino,cpp,npm,vscode,idea,Notion-Dark,maven,flutter,discord" />
   </a>
 </div>
