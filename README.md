@@ -9,9 +9,9 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedadel96e&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mohamedadel96e&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedadel96e&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-295&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohamed-295&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-295&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
@@ -22,10 +22,10 @@
 </div>
 
 <div align="center" >
-  <a href="https://discord.gg/mohamedadel7321" margin-right="10px">
+  <a href="https://discord.gg/mohamed_295" margin-right="10px">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-adel96e">
+  <a href="https://linkedin.com/in/mohamed-295">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
