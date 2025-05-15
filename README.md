@@ -38,8 +38,8 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=css,html,javascript,java,md,dart,mysql">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,java,md,dart,mysql" />
+  <a href="https://skillicons.dev/icons?i=css,html,c,java,md,dart,cpp,kotlin">
+    <img src="https://skillicons.dev/icons?i=css,html,c,java,md,dart,cpp,kotlin" />
   </a>
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=git,github,c,arduino,cpp,npm,vscode,idea,Notion-Dark,maven,flutter,discord">
-    <img src="https://skillicons.dev/icons?i=git,github,c,arduino,cpp,npm,vscode,idea,Notion-Dark,maven,flutter,discord" />
+  <a href="https://skillicons.dev/icons?i=git,github,arduino,npm,vscode,idea,notion,flutter">
+    <img src="https://skillicons.dev/icons?i=git,github,c,arduino,npm,vscode,idea,notion,flutter" />
   </a>
 </div>
