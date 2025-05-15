@@ -52,6 +52,6 @@
 <div align="center" >
   
   <a href="https://skillicons.dev/icons?i=git,github,arduino,npm,vscode,idea,notion,flutter">
-    <img src="https://skillicons.dev/icons?i=git,github,c,arduino,npm,vscode,idea,notion,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,npm,vscode,idea,notion,flutter" />
   </a>
 </div>
