@@ -38,8 +38,8 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=css,html,c,java,md,dart,cpp,kotlin">
-    <img src="https://skillicons.dev/icons?i=css,html,c,java,md,dart,cpp,kotlin" />
+  <a href="https://skillicons.dev/icons?i=c,java,md,dart,cpp,kotlin">
+    <img src="https://skillicons.dev/icons?i=c,java,md,dart,cpp,kotlin" />
   </a>
 </div>
 
